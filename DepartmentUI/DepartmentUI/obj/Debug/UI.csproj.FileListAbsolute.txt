@@ -1,0 +1,11 @@
+C:\Users\Nichole\OneDrive - Community College of Rhode Island\System Analysis and Design\ReportingSystem\DepartmentUI\DepartmentUI\bin\Debug\DepartmentUI.exe.config
+C:\Users\Nichole\OneDrive - Community College of Rhode Island\System Analysis and Design\ReportingSystem\DepartmentUI\DepartmentUI\bin\Debug\DepartmentUI.exe
+C:\Users\Nichole\OneDrive - Community College of Rhode Island\System Analysis and Design\ReportingSystem\DepartmentUI\DepartmentUI\bin\Debug\DepartmentUI.pdb
+C:\Users\Nichole\OneDrive - Community College of Rhode Island\System Analysis and Design\ReportingSystem\DepartmentUI\DepartmentUI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Nichole\OneDrive - Community College of Rhode Island\System Analysis and Design\ReportingSystem\DepartmentUI\DepartmentUI\obj\Debug\UI.frmUI.resources
+C:\Users\Nichole\OneDrive - Community College of Rhode Island\System Analysis and Design\ReportingSystem\DepartmentUI\DepartmentUI\obj\Debug\DepartmentUI.Properties.Resources.resources
+C:\Users\Nichole\OneDrive - Community College of Rhode Island\System Analysis and Design\ReportingSystem\DepartmentUI\DepartmentUI\obj\Debug\UI.StudentUI.resources
+C:\Users\Nichole\OneDrive - Community College of Rhode Island\System Analysis and Design\ReportingSystem\DepartmentUI\DepartmentUI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Nichole\OneDrive - Community College of Rhode Island\System Analysis and Design\ReportingSystem\DepartmentUI\DepartmentUI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Nichole\OneDrive - Community College of Rhode Island\System Analysis and Design\ReportingSystem\DepartmentUI\DepartmentUI\obj\Debug\DepartmentUI.exe
+C:\Users\Nichole\OneDrive - Community College of Rhode Island\System Analysis and Design\ReportingSystem\DepartmentUI\DepartmentUI\obj\Debug\DepartmentUI.pdb
